@@ -2,8 +2,6 @@
 
 ## Loïc NGR
 
-<img align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=loicngr&count_private=true&show_icons=true&theme=tokyonight" />
-
 ![Rust](https://img.shields.io/badge/-rust-000000?style=flat-square&logo=rust&logoColor=fff) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff) 
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=fff) 
